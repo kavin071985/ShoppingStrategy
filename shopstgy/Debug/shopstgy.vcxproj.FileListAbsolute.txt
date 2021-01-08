@@ -1,0 +1,2 @@
+C:\Users\kavin\Documents\Visual Studio 2019\Projects\shopstgy\Debug\shopstgy.pdb
+C:\Users\kavin\Documents\Visual Studio 2019\Projects\shopstgy\shopstgy\Debug\shopstgy.pdb
